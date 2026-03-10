@@ -1,5 +1,5 @@
 name: note_taking
-description: "A note taking app with rich text editing, categories, search, and cloud sync."
+description: "Note taking app with rich text editing, categories, search, and cloud sync"
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -11,8 +11,6 @@ dependencies:
     sdk: flutter
   flutter_riverpod: ^2.6.1
   go_router: ^14.2.0
-  dio: ^5.4.0
-  shared_preferences: ^2.2.2
 
 dev_dependencies:
   flutter_test:

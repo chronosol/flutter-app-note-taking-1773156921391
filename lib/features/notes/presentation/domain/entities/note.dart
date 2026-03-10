@@ -3,9 +3,5 @@ class Note {
   final String title;
   final String content;
 
-  const Note({
-    required this.id,
-    required this.title,
-    required this.content,
-  });
+  const Note({required this.id, required this.title, required this.content});
 }
